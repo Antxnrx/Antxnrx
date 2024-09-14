@@ -1,28 +1,74 @@
-<h1 align="middle">Hey, Welcome To My Github Profile</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antxnrx&label=Profile%20views&color=0e75b6&style=flat" alt="antxnrx" /> </p>
-<p align="left"> <a href="https://x.com/_DefaultAntxn" target="blank"><img src="https://img.shields.io/twitter/follow/_defaultantxn?logo=twitter&style=for-the-badge" alt="_defaultantxn" /></a> </p>
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/wjKgNX3M/Untitled-design-2.png"  />
+</div>
 
+###
 
-<h3>Connect with me</h3>
-<a href="https://x.com/_DefaultAntxn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""X" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anton-raj-singh/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt=""X" width="60" height="60"></a>
+<h2 align="left">Hi 👋! My name is Anton and I'm from Bangalore, India</h2>
 
-<h3 align="left">Languages and Tools</h3>
-<p>________________________________________________________________________________</p>
-<p align="left"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" alt="C programming" width="50" height="50"><img src="https://www.emmanueldgz.com/_nuxt/img/cpp.6cc1bff.png" alt="C++" width="50" height="50"><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="java" width="50" height="50"><img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" alt="My sql" width="50" height="50"><img src="https://clipartcraft.com/images/html5-logo-jpeg.png" alt="HTML" width="50" height="50"><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" width="40" height="50"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="50" height="50"><img src="https://pngimg.com/uploads/github/github_PNG85.png" alt="Github" height="50" width="50"><img src="https://th.bing.com/th/id/OIP.FQ5kkNnY3n17HAWcRjpSeQAAAA?rs=1&pid=ImgDetMain" alt="Adobe Illustrator" width="50" height="50"><img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-photoshop-cs6-logo-png-transparent.png" alt="Adobe Photoshop" height="50" width="50"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-1-599x584.png" alt="Adobe After Effects" height="50" width="50"><img src="https://freelogopng.com/images/all_img/1682566315logo-filmora.png" alt="Filmora" height="50" width="50"><img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" alt="CapCut" height="50" width="50"><img src="https://th.bing.com/th/id/OIP.UT34m9B5n2yNxw4-hskFLgAAAA?rs=1&pid=ImgDetMain" alt="canva" height="50" width="50"><img src="https://th.bing.com/th/id/R.73b34d9c78794cfb297d31b9c4ed5727?rik=GBo%2ffXzdAmpHwA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f3%2f33%2fFigma-logo.svg%2f128px-Figma-logo.svg.png&ehk=Uy0nDsgVtL5yk7qAGgTxDUfCysTXKCwrT00fjD9AeS0%3d&risl=&pid=ImgRaw&r=0" alt="Figma" height="50" width="40"></p>
+###
 
+<h4 align="left">I’m a passionate Computer Science student who loves creating, designing, and solving problems. Over time, I’ve built skills in graphic design, video editing, coding, and digital marketing, always aiming to deliver unique, high-quality solutions that stand out.<br><br>With a strong foundation in tech and experience across creative fields, I adapt quickly to new trends and technologies. Currently, I freelance in graphic design, video editing, and marketing, where I get to combine creativity with strategy to help brands grow.<br><br>I’m excited to keep pushing my skills and contribute to innovative projects in this ever-evolving field!</h4>
 
-<h2>Here are some of my stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antxnrx&show_icons=true&locale=en&layout=compact" alt="antxnrx" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antxnrx&show_icons=true&locale=en" alt="antxnrx" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antxnrx&" alt="antxnrx" /></p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antxnrxj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=antxnrxj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antxnrxj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/anton-raj-singh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/antonraj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://x.com/_DefaultAntxn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="antonrajworks@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWMzaGk2b2FsODk5ejZ0dGhtZ2VpZ282am55eXVkZnlxcTdyamg3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27bFONcG7bw9ldbDEC/giphy.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/antxnrxj/antxnrxj/output/snake.svg" alt="Snake animation" />
 
+###
