@@ -5,7 +5,6 @@ Fetches contribution data from GitHub and creates light/dark themed SVGs.
 """
 
 import os
-import json
 import requests
 from datetime import datetime, timedelta
 
@@ -159,7 +158,7 @@ def calculate_stats(contributions):
 def generate_chart_path(contributions, chart_height=160):
     """Generate SVG path data for the contribution chart."""
     if not contributions:
-        return "", ""
+        return "", "", []
     
     max_val = max(contributions) if max(contributions) > 0 else 1
     width = 800
