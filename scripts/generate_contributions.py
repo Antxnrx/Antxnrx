@@ -13,7 +13,16 @@ GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 
 def fetch_contributions():
     """Fetch contribution data from GitHub's GraphQL API via the contribution calendar."""
-    # Try fetching the contribution calendar HTML first (no auth required)
+    # Prefer GraphQL when token is available (more stable than scraping HTML)
+    if GITHUB_TOKEN:
+        try:
+            contributions = fetch_contributions_graphql()
+            print("Using GraphQL contribution data")
+            return contributions
+        except Exception as e:
+            print(f"GraphQL fetch failed: {e}")
+
+    # Fallback to contribution calendar HTML (no auth required)
     url = f"https://github.com/users/{GITHUB_USERNAME}/contributions"
     headers = {
         'User-Agent': 'github-contrib-chart/1.0 (+https://github.com)'
@@ -24,24 +33,23 @@ def fetch_contributions():
         response.raise_for_status()
         html = response.text
 
-        # Parse contribution counts from the HTML
         contributions = parse_contribution_html(html)
-        if contributions and any(c is not None for c in contributions):
+        if contributions:
+            print("Using HTML contribution data")
             return contributions
-        # If parsing failed, fall through to GraphQL fallback (if token available)
-        print("HTML parse returned no contributions, trying GraphQL fallback...")
+        print("HTML parse returned no contributions")
     except Exception as e:
         print(f"Error fetching contributions HTML: {e}")
 
-    # Fallback: if a GitHub token is provided, use the GraphQL API to fetch exact counts
-    if GITHUB_TOKEN:
-        try:
-            return fetch_contributions_graphql()
-        except Exception as e:
-            print(f"GraphQL fetch failed: {e}")
+    # Optional local fallback for demos only
+    if os.environ.get('ALLOW_SAMPLE_DATA') == '1':
+        print("Using sample fallback data (ALLOW_SAMPLE_DATA=1)")
+        return get_sample_data()
 
-    # Last resort: return sample data so caller still has something to render
-    return get_sample_data()
+    raise RuntimeError(
+        "Unable to fetch live contribution data. "
+        "Set GITHUB_TOKEN for GraphQL access or enable ALLOW_SAMPLE_DATA=1 for local testing."
+    )
 
 def parse_contribution_html(html):
     """Parse contribution data from GitHub's contribution page HTML."""
@@ -138,7 +146,6 @@ def fetch_contributions_graphql():
 def get_sample_data():
     """Return sample data if fetching fails."""
     import random
-    random.seed(42)
     return [random.randint(0, 15) for _ in range(28)]
 
 def calculate_stats(contributions):
